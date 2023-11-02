@@ -12,9 +12,12 @@ Primer dia:
 * [Comentaris dins codi](https://www.w3schools.com/html/html_comments.asp)
 * [Enllaços](https://www.w3schools.com/html/html_links.asp)
     * [Enllaços relatius Vs Absoluts](http://www.elsapunts.cat/Alfabetitzaci%C3%B3/alfabetitzacio%20digital%201/Modul_4/1-08-4.html)
-* [Enllaços](https://www.w3schools.com/html/html_links.asp)
+* [Imatges](https://www.w3schools.com/html/html_images.asp)
+
+Segon dia:
+* [Enllaços](https://www.w3schools.com/html/html_lists.asp)
     * [Llista desordenada](https://www.w3schools.com/html/html_lists_unordered.asp)
     * [Llista Ordenada](https://www.w3schools.com/html/html_lists_ordered.asp)
     * [Llista definició](https://www.w3schools.com/html/html_lists_other.asp)
-* [Imatges](https://www.w3schools.com/html/html_images.asp)
+
 * [Taules](https://www.w3schools.com/html/html_tables.asp)
