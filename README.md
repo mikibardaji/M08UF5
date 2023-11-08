@@ -18,6 +18,7 @@ Guió de tots els aspectes que hem explicat a classe
 
 ### Introducció CSS
 * [Sintaxis](https://www.w3schools.com/css/css_syntax.asp)
+* [Afegir CSS a la pàgina](https://www.w3schools.com/css/css_howto.asp)
 * [Alcada/amplada](https://www.w3schools.com/css/css_dimension.asp)
 * [Color](https://www.w3schools.com/css/css_colors.asp)
 * [Font](https://www.w3schools.com/css/css_font.asp)
