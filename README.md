@@ -30,8 +30,14 @@ Guió de tots els aspectes que hem explicat a classe
     * [Llista desordenada](https://www.w3schools.com/html/html_lists_unordered.asp)
     * [Llista Ordenada](https://www.w3schools.com/html/html_lists_ordered.asp)
     * [Llista definició](https://www.w3schools.com/html/html_lists_other.asp)
+      
+## Tercer dia:
 
+* [Etiqueta span](https://www.w3schools.com/tags/tag_span.asp)
 * [Taules](https://www.w3schools.com/html/html_tables.asp)
+
+#### CSS general
+* [Selectors: id(únic) i class(grup)](https://www.w3schools.com/css/css_selectors.asp)
   
 #### CSS taules
 * [Bordes](https://www.w3schools.com/css/css_border.asp)
