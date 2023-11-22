@@ -6,7 +6,7 @@ Guió de tots els aspectes que hem explicat a classe
 
 ## Primer dia:
 
-* [Esquelet basic HTML5](http://example.com/](https://www.w3schools.com/html/html_intro.asp)https://www.w3schools.com/html/html_intro.asp)
+* [Esquelet basic HTML5](https://www.w3schools.com/html/html_intro.asp)
 * [Capçalera](https://www.w3schools.com/html/html_headings.asp)
 * [Paragraf](https://www.w3schools.com/html/html_paragraphs.asp)
 * [Comentaris dins codi](https://www.w3schools.com/html/html_comments.asp)
@@ -24,6 +24,7 @@ Guió de tots els aspectes que hem explicat a classe
 > > * [Font](https://www.w3schools.com/css/css_font.asp)
 > > * [Style (negreta, cursiva..](https://www.w3schools.com/css/css_font_style.asp)
 > > * [Fons pantalla, text](https://www.w3schools.com/css/css_background.asp)
+> > * [Alineació Text Centre/Dreta/Esquerra](https://www.w3schools.com/cssref/pr_text_text-align.php)
   
 > ### HTML
 > > * [Enllaços](https://www.w3schools.com/html/html_lists.asp)
