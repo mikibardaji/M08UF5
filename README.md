@@ -34,7 +34,7 @@ Guió de tots els aspectes que hem explicat a classe
 ## Tercer dia:
 
 > #### HTML
-> > * [Etiqueta span](https://www.w3schools.com/tags/tag_span.asp)
+> > * [Etiqueta span](https://www.jose-aguilar.com/blog/como-agregar-una-fuente-a-tu-pagina-web-con-css)
 > > * [Taules](https://www.w3schools.com/html/html_tables.asp)
 
 > #### CSS general
