@@ -42,3 +42,9 @@ Guió de tots els aspectes que hem explicat a classe
   
 > #### CSS taules
 > > * [Bordes](https://www.w3schools.com/css/css_border.asp)
+> >
+## Quart dia:
+
+> #### Diferents tipus Lletres
+> > * [Utilitzar font local](https://www.w3schools.com/tags/tag_span.asp](https://www.jose-aguilar.com/blog/como-agregar-una-fuente-a-tu-pagina-web-con-css/)https://www.jose-aguilar.com/blog/como-agregar-una-fuente-a-tu-pagina-web-con-css/)
+> > * [Lletres Google Fonts linkades al nuvol](https://www.w3schools.com/css/css_font_google.asp)
