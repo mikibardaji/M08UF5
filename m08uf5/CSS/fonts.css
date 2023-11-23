@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Vina';
+    src: url('../fonts/VinaSans.ttf');
+}
+
+#fontvina
+{
+    font-family: 'Vina';
+}
+
+#latofont
+{
+    font-family: 'Lato', sans-serif;
+}
