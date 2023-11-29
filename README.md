@@ -1,5 +1,5 @@
 # M08UF5 - HTML i CSS
-Guió de tots els aspectes que hem explicat a classe
+Guió de tots els aspectes que hem explicat a classe.
 
 
 
