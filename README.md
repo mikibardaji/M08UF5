@@ -49,3 +49,9 @@ Guió de tots els aspectes que hem explicat a classe
 > #### Diferents tipus Lletres
 > > * [Utilitzar font local](https://www.jose-aguilar.com/blog/como-agregar-una-fuente-a-tu-pagina-web-con-css)
 > > * [Lletres Google Fonts linkades al nuvol](https://www.w3schools.com/css/css_font_google.asp)
+
+## Següent sessió FORMULARIS:
+
+> > * [Formularis y els seus components](https://www.w3schools.com/html/html_forms.asp)
+> > * [Elements diferents formulari](https://www.w3schools.com/html/html_form_elements.asp)
+> > * [Atribut Type diferent per diferents cuadres de text](https://www.w3schools.com/html/html_form_input_types.asp)
