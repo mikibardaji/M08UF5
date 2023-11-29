@@ -55,3 +55,4 @@ Guió de tots els aspectes que hem explicat a classe
 > > * [Formularis y els seus components](https://www.w3schools.com/html/html_forms.asp)
 > > * [Elements diferents formulari](https://www.w3schools.com/html/html_form_elements.asp)
 > > * [Atribut Type diferent per diferents cuadres de text](https://www.w3schools.com/html/html_form_input_types.asp)
+> > * [Fieldset recuadre per ajuntar diferents camps](https://www.w3schools.com/tags/tag_fieldset.asp)
