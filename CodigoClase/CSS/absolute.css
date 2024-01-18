@@ -1,0 +1,59 @@
+div{ /*posicionament normal*/
+    position:relative;
+    border:2px solid black;
+}
+
+#chewbacca
+{
+    
+}
+
+#vader
+{
+    position: absolute;
+    top:1em;
+    left:10em;
+}
+
+#r2d2
+{
+    position: absolute;
+    top:80px;
+    left:20em;
+}
+#c3po
+{
+    
+}
+#yoda
+{
+    
+}
+#chewbacca1
+{
+    
+}
+#vader1
+{
+    
+}
+#r2d21
+{
+    
+}
+#c3po1
+{
+    
+}
+#yoda1
+{
+    
+}
+#vader
+{
+    
+}
+#vader
+{
+    
+}

@@ -1,0 +1,47 @@
+#principal
+{
+    display:grid;
+    border:2px dotted darkgoldenrod;
+    width:800px;
+    margin:auto; /* 300px*/
+    grid-template-columns: 20% auto auto 100px;
+    grid-template-rows: 100px 400px 200px;
+    grid-gap:10px;
+}
+
+div{
+    
+    border: 1px solid salmon;
+}
+
+#one
+{
+    /*grid-column: 1 / 5;*/
+    grid-column: 1 / span 4;
+    background-color: aquamarine;
+}
+
+#two
+{
+    grid-column: 1 / 2; /*sol una columna*/
+    grid-row: 2 / 4; /*2 files*/
+    background-color: cadetblue;
+}
+
+#three
+{
+    grid-column: 2 / span 2;
+    background-color: coral;
+}
+
+#four
+{
+    grid-column: 4 / 5;
+    background-color: chocolate;
+}
+
+#five
+{
+    background-color: blue;
+    grid-column: 2 / 5;
+}

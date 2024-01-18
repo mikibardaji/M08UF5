@@ -1,0 +1,33 @@
+div{
+    border: 1px solid black;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+}
+
+#box1
+{
+    float:left;
+}
+
+
+#box2
+{
+    float: right;
+}
+
+#box3
+{
+    float:right;
+}
+
+#box4
+{
+    float:right;
+}
+
+#box5
+{
+    height: 150px;
+    background-color: aquamarine;
+}
