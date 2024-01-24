@@ -72,3 +72,6 @@ Guió de tots els aspectes que hem explicat a classe.
 > > > 4. [Posicionament flotant](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-flotante)
 > > > > * [Posicionament float W3Schools](https://www.w3schools.com/css/css_float.asp)
 > > > 5. [Posicionament grid-layout](https://www.w3schools.com/css/css_grid.asp)
+
+## Sessió 7 Noves Etiquetes HTML5 :
+> > > 1. [HEADER SECTION NAV FOOTER SECTION ASIDE](https://desarrolloweb.com/articulos/nuevas-etiquetas-html5.html)
