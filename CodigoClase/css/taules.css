@@ -1,0 +1,54 @@
+.blancoperla /* un punto delante para decir que es class*/
+{
+    color:antiquewhite;
+}
+
+p
+{
+    font-style: italic;/*cursiva*/
+}
+
+span
+{
+    color: blue;
+    font-weight: bold; /*negreta*/
+}
+
+#id1 /* id va con el #*/
+{
+    text-decoration-line: underline;
+}
+
+
+#id2 /* id va con el #*/
+{
+    text-decoration-line: line-through;
+}
+
+img
+{
+    width: 42px;
+    height: 28px;
+}
+
+table,th
+{
+    border-width: 2px;
+    border-color: aquamarine;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+td
+{
+    border-width: 2px;
+    border-color: blue;
+    border-style: dotted;
+    border-collapse: collapse;
+    /*border: 2px dotted blue;*/
+}
+
+.centrado
+{
+    text-align: center;
+}

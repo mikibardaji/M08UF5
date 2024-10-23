@@ -1,0 +1,37 @@
+body
+{
+    background-color: cornflowerblue;
+}
+
+h1
+{
+    color:aqua;
+    font-size: 20px;
+    text-align: right;
+}
+p
+{
+    color: green;
+    font-size: 50px;
+}
+
+a:visited
+{
+    color:chartreuse;
+}
+
+a{
+    color:blueviolet;
+}
+
+img
+{
+    width: 215px;
+    height: 121px;
+}
+
+ul.li
+{
+    list-style-type: square;
+}
+

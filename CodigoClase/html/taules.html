@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Span, Class taules</title>
+    <link rel="stylesheet" href="../css/taules.css">
+</head>
+<body>
+    <h2 class="blancoperla"><span>Etiqueta</span> span</h2>
+    <p class="blancoperla">La etiqueta span sirve para dar formato 
+        a una parte del texto<br/> dentro de otra <span>etiqueta span</span>   </p>
+    <p>Etiqueta class es un atribut per poder donar
+        format als elements que vulgui.
+    </p>
+    <p class="blancoperla">Frase 3</p>
+    <p> Etiqueta id sirve para lo mismo que la etiqueta class
+        pero solo se puede aplicar a un elemento 
+        <span id="id1">elemento 1 con id1</span>
+        <span id="id2">elemento 2 con id2</span>
+    </p>
+
+    <h3>Construcció Taules</h3>
+    <table> <!-- primera obligatoria-->
+        <tr> <!-- Table Row Fila-->
+            <!--header cabecera NO ES OBLIGATORIO -->
+            <th>Personaje</th> <!-- Columna 1-->
+            <th>Abilidad</th>  <!-- Columna 2-->
+            <th>Valoracion</th> <!-- Columna 3-->
+            <th>Imagen</th>
+            <th>Juego</th>
+        </tr>
+        <tr> <!-- segunda -->
+            <td>Heber</td>
+            <td>Vuelo</td>
+            <td>10/10</td>
+            <td><img src="../imatges/heber.jpg" /></td>
+            <td rowspan="2">Fornite</td>
+        </tr>
+        <tr>
+            <td>Marc Caire</td>
+            <td>Trepa</td>
+            <td>9/10</td>
+            <td><img src="../imatges/marc.jpg" /></td>
+        </tr>
+        <tr>
+            <td colspan="3" class="centrado">Descripcion</td>
+
+            <td colspan="2" class="centrado">Imagenes</td>   
+        </tr>
+    </table>
+
+
+
+
+
+</body>
+</html>
