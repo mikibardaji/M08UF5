@@ -63,8 +63,7 @@ Guió de tots els aspectes que hem explicat a classe.
 > > > * [Margins](https://www.w3schools.com/css/css_margin.asp)
 > > > * [Padding](https://www.w3schools.com/css/css_padding.asp)
 > > > * [Background](https://www.w3schools.com/css/css_background.asp)
-> > > * [HEADER SECTION NAV FOOTER SECTION ASIDE visual](https://ayudawp.com/html5-todas-las-nuevas-etiquetas/)
-> > > * [HEADER SECTION NAV FOOTER SECTION ASIDE](https://desarrolloweb.com/articulos/nuevas-etiquetas-html5.html)
+> > > * [HEADER SECTION NAV FOOTER SECTION ASIDE visual](https://www.aulaclic.es/articulos/html5-semantica_1.html)
 
 ## Sessió 6 Posicionament Caixes :
 > > > 1. [Posicionament normal](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-normal)
