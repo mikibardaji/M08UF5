@@ -63,16 +63,13 @@ Guió de tots els aspectes que hem explicat a classe.
 > > > * [Margins](https://www.w3schools.com/css/css_margin.asp)
 > > > * [Padding](https://www.w3schools.com/css/css_padding.asp)
 > > > * [Background](https://www.w3schools.com/css/css_background.asp)
+> > > * [HEADER SECTION NAV FOOTER SECTION ASIDE visual](https://ayudawp.com/html5-todas-las-nuevas-etiquetas/)
+> > > * [HEADER SECTION NAV FOOTER SECTION ASIDE](https://desarrolloweb.com/articulos/nuevas-etiquetas-html5.html)
 
 ## Sessió 6 Posicionament Caixes :
 > > > 1. [Posicionament normal](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-normal)
-> > > 2. [Posicionament relatiu(menys important)](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-relativo)
-> > > 3. [Posicionament absolut](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-absoluto)
-> > > > * [Posicionament absolut W3Schools](https://www.w3schools.com/css/css_positioning.asp)
-> > > 4. [Posicionament flotant](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-flotante)
-> > > > * [Posicionament float W3Schools](https://www.w3schools.com/css/css_float.asp)
-> > > 5. [Posicionament grid-layout](https://www.w3schools.com/css/css_grid.asp)
+> > > 2. [Posicionament flotant](https://uniwebsidad.com/libros/css/capitulo-5/posicionamiento-flotante)
+> > > 3. [Posicionament float W3Schools](https://www.w3schools.com/css/css_float.asp)
+> > > 4. [Posicionament grid-layout](https://www.w3schools.com/css/css_grid.asp)
 
-## Sessió 7 Noves Etiquetes HTML5 :
-> > > 1. [HEADER SECTION NAV FOOTER SECTION ASIDE visual](https://ayudawp.com/html5-todas-las-nuevas-etiquetas/)
-> > > 2. [HEADER SECTION NAV FOOTER SECTION ASIDE](https://desarrolloweb.com/articulos/nuevas-etiquetas-html5.html)
+
