@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Halloween;
+    src: url('../fonts/Jolly_Lodger/JollyLodger-Regular.ttf');
+}
+.nosifer-regular {
+    font-family: "Nosifer", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nosifer{
+    font-family: "Nosifer", Courier;
+  }
+#halloween2
+{    font-family: Halloween; }
+#video
+{ /*width="560" height="315"*/
+    width: 100px;
+    height: 100px;
+}

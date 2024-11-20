@@ -1,0 +1,25 @@
+div{
+    border-style: solid;
+    border-width: 1px;
+    border-color: aquamarine;
+}
+
+#n1
+{
+    width: 25%;
+    float:right;
+}
+#n2
+{
+    width: 50%;
+    float: right;
+}
+#n1,#n2
+{
+    background-color: h;
+}
+
+.altura60
+{
+    height: 60px;
+}

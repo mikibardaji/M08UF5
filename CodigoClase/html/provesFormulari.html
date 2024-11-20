@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../CSS/provesformulari.css">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>Formulario de pruebas</h1>
+    <form action="https://www.google.com/?hl=es" method="get">
+        <fieldset id="datos">
+            <legend>Datos personales</legend>
+            <label>Nombre</label>
+            <input type="text" id="nombre" name="nombre" size="5" >
+            <br/>
+            <label>correo electronico</label>
+            <input type="email" id="correo" name="correo" placeholder="mimail@mail.com">
+            <br/>
+        </fieldset>   
+        <fieldset>
+            <legend>Datos academicos</legend>
+                <label>Clase</label>
+                <input type="text" id="clase" name="clase" value="SMX2C" >
+                <br/>
+                <label>Nota SMX</label>
+                <input type="number" id="nota" name ="nota">
+                <br/>
+        </fieldset> 
+
+        <label>Aficiones</label>
+        <br/>
+        <input type="radio" id="musica" name="aficion" value="musica"><label>Musica</label>
+        <input type="radio" id="dormir" name="aficion" value="dormir"><label>Dormir</label>
+        <input type="radio" id="videojuegos" name="aficion" value="videojuegos"><label>Videojuegos</label>
+
+        <label>Escoge la marca del coche que te gustaria tener</label>
+        <select id="coche" name="coche" multiple>
+            <option value="toyota">Toyota mo1</option>
+            <option value="mercedes">Mercedes Benz</option>
+            <option value="ferrari">Ferrari F40</option>
+            <option value="versace">Porsche</option>
+        </select>
+
+        <input type="submit">
+
+    </form>
+
+
+
+</body>
+</html>
